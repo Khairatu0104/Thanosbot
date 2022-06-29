@@ -1,11 +1,11 @@
 
-<h2 align="center"><b>OwNeR <a href="https://telegram.dog/Murat_30_God ">『 Manjeet』』</a></b></h2>
+<h2 align="center"><b>OwNeR <a href="https://t.me/ownerkhaii "> ♂ U L L </a></b></h2>
 # MeowUserbor
 > Telethon based userbot (•~•)
 <h1 align="center">⚡Meow-Userbot⚡</h1>
 
 
-[![Meow userbot logo](https://telegra.ph/file/3c2932815330a143fa1a8.png)](https://t.me/Meow_userbot)
+[![Meow userbot logo]( https://te.legra.ph/file/eeabce5c3ab186df2f605.jpg )](https://t.me/Meow_userbot)
 
 <h2 align="center">USERBOT</h2>
 
