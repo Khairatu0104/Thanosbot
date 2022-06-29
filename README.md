@@ -1,5 +1,5 @@
 
-<h2 align="center"><b>OwNeR <a href="https://t.me/ownerkhaii "> ♂ U L L </a></b></h2>
+<h2 align="center"><b> OwNeR <a href="https://t.me/ownerkhaii "> ♂ U L L </a></b></h2>
 # MeowUserbor
 > Telethon based userbot (•~•)
 <h1 align="center">⚡Meow-Userbot⚡</h1>
